@@ -12,3 +12,4 @@ To do a Registration you needs this requirements:
 - +18.
 
 Probably I should have used dotenv to not show the sensitive information.
+I missed the validations in backend, but usually I use Joi Validations.
